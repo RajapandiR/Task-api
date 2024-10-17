@@ -27,3 +27,4 @@ export { Middleware } from "../middleware/loginMiddleware"
 export { Model } from "./models";
 export { JWT } from "../helpers/jwt";
 
+export { dbConnect } from "../connection/dbConnection";
