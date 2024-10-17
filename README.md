@@ -16,6 +16,11 @@ npm install
 npm run serve
 
 ```
+
+## Environment variables
+
+Copy content from .env.sample into a new file .env in the root directory
+
 ## API End points
 
 ### User Signup - POST
